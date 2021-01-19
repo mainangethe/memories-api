@@ -1,0 +1,23 @@
+{
+  "name": "memories-api",
+  "version": "1.0.0",
+  "description": "Memories is an app that allows you to take snapshots of important events you want to remember",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev:start": "nodemon index.js",
+    "logs:prod": "heroku logs --tail"
+  },
+  "keywords": [],
+  "author": "Mradi Kenya Limited <hello@mradi.co.ke>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9",
+    "nodemon": "^2.0.6",
+    "dotenv": "^8.2.0"
+  }
+}
