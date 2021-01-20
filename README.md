@@ -53,6 +53,9 @@ npm run dev:start
 
 You can use your favourite tool to test the end-points. `cURL` or `PostMan` etc.
 
+![api-response-screenshot](https://user-images.githubusercontent.com/41260290/105123765-bbd35080-5ae9-11eb-9f11-2e7ffe33e08d.png)
+
+
 ## List of EPs
 
 The following EPs are accessible:
